@@ -1,0 +1,5 @@
+Proceso Ejercicio1
+Leer numero 1, numero2
+Suma = numero1 + numero2
+Escribir suma
+Fin Proceso

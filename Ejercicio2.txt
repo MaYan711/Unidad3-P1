@@ -1,0 +1,4 @@
+Proceso Ejercicio2
+Leer pais, capital
+Escribir capital, "es la capital de", pais
+Fin proceso

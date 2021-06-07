@@ -1,0 +1,4 @@
+Proceso Ejercicio9
+Leer pal1, pal2
+Leer val1 = pal 2, val2 = pal2
+Fin proceso

@@ -1,0 +1,5 @@
+Proceso Ejercicio6
+Leer numero
+Escribir Aleatorio = aleatorio(0,200)
+Escribir aumentado = aleatorio * 30%
+Fin proceso

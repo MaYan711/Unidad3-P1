@@ -1,0 +1,20 @@
+Procceso Ejercicio16
+Leer n1, n2, n3
+Si n1 ≠ n2 ≠ n3
+n1 > n2
+Escribir "n1 es mayor"
+Sino 
+Escribir "n2 es mayor" 
+n2 > n3
+Escribir "n2 es mayor"
+Sino 
+Escribir "n3 es mayor"
+Sino 
+n1 > n3
+Escribir "n1 es mayor"
+Sino 
+Escribir "n3 es mayor"
+Sino
+Escribir "Ingrese numeros diferentes"
+Fin si
+Fin proceso

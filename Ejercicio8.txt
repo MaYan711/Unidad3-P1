@@ -1,0 +1,4 @@
+Proceso Ejercicio8
+Leer num1, num2, num3
+Escribir prom = num1 + num2+ num3 / 3
+Fin proceso

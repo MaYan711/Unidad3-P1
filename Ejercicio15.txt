@@ -1,0 +1,11 @@
+Proceso Ejercicio15 
+Leer n 
+Si n > 0
+Escribir numero positivo
+Sino
+Escribir numero negativo
+Fin si
+Si n = 0
+Escribir "numero nulo"
+Fin si
+Fin proceso

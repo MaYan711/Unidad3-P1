@@ -1,0 +1,8 @@
+Proceso Ejercicio19
+Leer aleatorio
+Si aleatorio = mod 5 y aleatorio ≥ 25
+Mostrar "Correcto"
+Sino
+Escribir "Incorrecto"
+Fin si
+Fin Proceso

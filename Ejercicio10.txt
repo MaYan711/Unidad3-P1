@@ -1,0 +1,5 @@
+Proceso Ejercicio10
+Leer base, altura
+Escribir area = base * altura
+Escribir perimetro = 2 * area
+Fin procceso

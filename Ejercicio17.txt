@@ -1,0 +1,11 @@
+Proceso Ejercicio17
+Leer a, b, c
+Si a = b y b = c entonces
+Escribir es equilatero
+Sino
+a = b o a = c o b = c
+Escribir es iscosceles
+Sino
+Escribir es escaleno
+Fin si
+Fin Proceso

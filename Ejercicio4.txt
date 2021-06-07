@@ -1,0 +1,5 @@
+Proceso Ejercicio4
+Leer numero
+Escribir cuadrado = numero ^ 2
+Escribir cubo = numero ^ 3
+Fin proceso

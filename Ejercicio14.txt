@@ -1,0 +1,5 @@
+Proceso Ejercicio14
+Leer n1, n2
+Escribir div =  n2 / n1
+Mostrar div
+Fin proceso

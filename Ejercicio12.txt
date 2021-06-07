@@ -1,0 +1,5 @@
+Proceso Ejercicio12
+Leer C
+Escribir F = (C * 9/5) +32
+Mostrar F
+Fin proceso

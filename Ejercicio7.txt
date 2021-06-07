@@ -1,0 +1,5 @@
+Proceso Ejercicio7
+Leer aleatorio
+Escribir Aleatorio = aleatorio(10,50)
+Escribir Dsiminuido = aleatorio -15%
+Fin proceso

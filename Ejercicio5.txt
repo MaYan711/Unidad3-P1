@@ -1,0 +1,4 @@
+Proceso Ejercicio5
+Leer n 
+Escribir imprimir = n +1
+Fin proceso

@@ -1,0 +1,5 @@
+Proceso Ejercicio3
+Leer numero
+Escribir doble = numero * numero
+Escirbir triple = numero * numero * numero
+Fin proceso
